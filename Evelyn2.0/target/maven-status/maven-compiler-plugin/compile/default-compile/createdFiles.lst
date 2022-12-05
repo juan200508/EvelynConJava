@@ -1,0 +1,12 @@
+com\app\web\AppController.class
+com\app\web\entidad\Inventario.class
+com\app\web\entidad\SolicitudProduccion.class
+com\app\web\entidad\Usuario.class
+com\app\web\entidad\Entrada.class
+com\app\web\entidad\Produccion.class
+com\app\web\entidad\Producto.class
+com\app\web\entidad\Rol.class
+com\app\web\Application.class
+com\app\web\entidad\DetallePedido.class
+com\app\web\entidad\Proveedor.class
+com\app\web\entidad\Pedido.class

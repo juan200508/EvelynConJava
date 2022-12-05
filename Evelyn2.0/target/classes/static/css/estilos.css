@@ -1,0 +1,62 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.img{
+    width: 150px;
+    margin-left: 100px;
+    padding: auto;
+}
+.img1{
+    width: 150px;
+    padding: auto;
+    margin-left: 570px;
+}
+.navi{
+    font-size: 20px;
+    padding: auto 0;
+}
+.logo{
+    border-bottom: solid 1px black;
+}
+.cont{
+    border-top: solid 1px black;
+}
+.cont2{
+    padding-bottom: 0;
+}
+.icon{
+    padding-right: 15px;
+}
+/*Barra de navegaión 2*/
+.navcont{
+    margin-top: 300px;
+    margin-left: px;
+    text-align: center;
+}
+.nav2{
+    text-align: center;
+}
+.li:hover{
+    background: palegoldenrod;
+}
+.but{
+    font-size: 13px;
+    margin-left: 500px;
+    margin-bottom: 15px;
+    padding: 1px;
+    gap: 2px;
+}
+.but a{
+   
+    font-size: 13px;
+}
+
+/*Formulario de Agregar-Editar Producto*/
+.form1{
+    width: 800px;
+    background-color: palegoldenrod;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+
